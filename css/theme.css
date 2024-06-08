@@ -1444,7 +1444,7 @@ img {
 }
 
 .link-fancy-light {
-  color: grey;
+  color: #FFA92E;
 }
 
 .link-fancy-dark {
@@ -1569,6 +1569,10 @@ img {
 
 .bg-gray-900 {
   background-color: #202020;
+}
+
+.bg-pumking-900 {
+  background-color: #FFA92E;
 }
 
 .bg-black {
